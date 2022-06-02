@@ -1,0 +1,4 @@
+first = float(input("First Number that you'd like to mulitply: "))
+second = float(input("Second Number: "))
+sum = int(first) * int(second) 
+print("Sum: " + str(sum))
